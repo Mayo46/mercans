@@ -1,0 +1,66 @@
+[
+    {
+     "icon": "/assets/quickaccess.svg",
+     "title": "Quick Access",
+     "path": "quick-access",
+     "height": "24",
+     "width": "18",
+     "enabled": true
+   }, 
+   {
+     "icon": "/assets/myInformationBlack.svg",
+     "title": "My Information",
+     "path": "my-information",
+     "height": "24",
+     "width": "18",
+     "enabled": true
+   }, 
+   {
+     "icon": "/assets/payslipsBlack.svg",
+     "title": "My Payslips",
+     "path": "/",
+     "height": "24",
+     "width": "24",
+     "enabled": false
+   },   
+   {
+     "icon": "/assets/timeEntry.svg",
+     "title": "Time Entry",
+     "path": "timesheet",
+     "height": "24",
+     "width": "24",
+     "enabled": true
+   },
+   {
+     "icon": "/assets/plane.svg",
+     "title": "leaves",
+     "path": "leaves",
+     "height": "24",
+     "width": "24",
+     "enabled": true
+   },
+   {
+     "icon": "/assets/benefits.svg",
+     "title": "Benefits",
+     "path": "benefits",
+     "height": "24",
+     "width": "24",
+     "enabled": true
+   },
+   {
+     "icon": "/assets/organizationalChart.svg",
+     "title": "Organizational chart",
+     "path": "orgchart",
+     "height": "24",
+     "width": "24",
+     "enabled": true
+   },
+   {
+     "icon": "/assets/myTeam.svg",
+     "title": "My Team",
+     "path": "my-team",
+     "height": "24",
+     "width": "24",
+     "enabled": true
+   }
+   ]
