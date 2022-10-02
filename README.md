@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+### Node Version v18.7.0 Npm version 8.19.2
